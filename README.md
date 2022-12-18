@@ -1,78 +1,44 @@
-# GitHub Codespaces ♥️ React
+<center><img src="./md.data/sju.png" width="300"></center>  
+<center><img src="./md.data/sju-logo.png" width="150"></center>  
+#计算机科学与工程学院  
+#《网络通信编程项目实战》项目开发报告  
+##题目:  
+##专业名称:网络工程  
+##班级名称:12020054A  
+##组长学号:  
+##组长姓名:  
+##指导教师:杨少雄  
+##起止时间:2022-12-13至2022-12-26  
+##小组成员分工
+|序号|学号|姓名|任务分工|  
+|:---:|:---:|:---:|:---  
+|1||||  
+|2||||  
+|3||||  
 
-Welcome to your shiny new Codespace running React! We've got everything fired up and running for you to explore React.
+##第一章 项目功能简介  
+本项目实现了...功能，可以...，适合...用户在...时使用。
+##第二章 系统设计
+项目包括...部分，其中...模块用...语言在...系统上完成开发，而...模块用...语言开发，系统具有跨平台跨语言分布特性。
+各模块程序流程图等设计要素...
+##第三章 操作说明
+在...操作系统中，运行...程序，可以启动...
+先安装...再运行...程序，可以启动...
+点击...菜单可以...
+输入...可以...
+##第四章 代码结构说明  
+项目包含...个...源程序文件，各文件名称/长度和所实现功能列表如下：
+...
+##第五章 代码分析  
+在实现...功能时，借助了...函数库，关键代码为：  
+```
+void showCard(int id){
+//...
+}
+```
+以上代码中，...使用了多线程...非阻塞...多路复用...异步IO...消息队列...事件环...技巧，解决了...难题。
+##回顾与展望
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
 
-This project was bootstrapped for you with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-We've already run this for you in the `Codespaces: server` terminal window below. If you need to stop the server for any reason you can just run `npm start` again to bring it back online.
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) in the built-in Simple Browser (`Cmd/Ctrl + Shift + P > Simple Browser: Show`) to view your running application.
-
-The page will reload automatically when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
